@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\RastgeleSayi\RastgeleSayi\bin\Debug\RastgeleSayi.exe.config
+C:\Users\pc\source\repos\RastgeleSayi\RastgeleSayi\bin\Debug\RastgeleSayi.exe
+C:\Users\pc\source\repos\RastgeleSayi\RastgeleSayi\bin\Debug\RastgeleSayi.pdb
+C:\Users\pc\source\repos\RastgeleSayi\RastgeleSayi\obj\Debug\RastgeleSayi.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\RastgeleSayi\RastgeleSayi\obj\Debug\RastgeleSayi.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\RastgeleSayi\RastgeleSayi\obj\Debug\RastgeleSayi.exe
+C:\Users\pc\source\repos\RastgeleSayi\RastgeleSayi\obj\Debug\RastgeleSayi.pdb
